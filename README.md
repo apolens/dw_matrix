@@ -1,2 +1,2 @@
 # Projekt transformacja, czyli matrix
-Zapraszam do repozytorium 
+Zapraszam do repozytorium dw-warsaw-project :)
